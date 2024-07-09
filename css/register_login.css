@@ -1,0 +1,18 @@
+/* css for the register page */
+
+.form{
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 2rem;
+}
+
+.container{
+    display: grid;
+    place-items: center;
+}
+
+#submit_btn{
+    position: absolute;
+    left: 66%;
+}
